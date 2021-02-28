@@ -990,6 +990,9 @@ background: #1b1f25;
 #app-mount .root-SR8cQa .topSectionPlaying-1J5E4n {
   background: var(--background-alt);
 }
+#app-mount .root-SR8cQa .topSectionSpotify-1lI0-P 
+  background: var(--background-alt);
+}
 #app-mount .root-SR8cQa .headerFill-adLl4x {
   background: transparent;
 }
