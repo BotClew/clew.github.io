@@ -988,7 +988,7 @@ background: #1b1f25;
   background: var(--background-alt);
 }
 #app-mount .root-SR8cQa .topSectionPlaying-1J5E4n {
-  background: var(--background-alt);
+  background: var(--background-alt) !important;
 }
 #app-mount .root-SR8cQa .topSectionSpotify-1lI0-P 
   background: var(--background-alt);
