@@ -607,10 +607,10 @@ background: #1b1f25;
   z-index: -1;
 }
 #app-mount .headerPlaying-j0WQBV {
-  background: var(--background);
+  background: #1b1f25;
 }
 #app-mount .headerSpotify-zpWxgT {
-  background: var(--background);
+  background: #1b1f25;
 }
 #app-mount .headerSpotify-zpWxgT .button-2IFFQ4 {
   background: rgba(var(--discord-spotify)/1);
