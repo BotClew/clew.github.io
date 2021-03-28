@@ -561,7 +561,7 @@ background: #1b1f25;
   color: var(--text-focus);
 }
 #app-mount .userPopout-3XzG_A .headerNormal-T_seeN {
-  background: #1b1f25;
+  background: #1b1f25; !important;
 }
 #app-mount .userPopout-3XzG_A .activity-11LB_k {
   background: rgba(0, 0, 0, 0.025);
@@ -607,7 +607,7 @@ background: #1b1f25;
   z-index: -1;
 }
 #app-mount .headerPlaying-j0WQBV {
-  background: #1b1f25;
+  background: #1b1f25; !important;
 }
 #app-mount .headerSpotify-zpWxgT {
   background: #1b1f25;
